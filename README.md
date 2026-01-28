@@ -1,4 +1,4 @@
-# REACT PORTFOLIO 🚀
+# MY PORTFOLIO 🚀
 This is a simple React portfolio website built using React, styled-components, and other modern web development tools. It showcases my skills, projects, and contact information.
 
 
@@ -7,8 +7,8 @@ This is a simple React portfolio website built using React, styled-components, a
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/daniel-ndeto/react-portfolio.git
-    cd react-portfolio 📁
+    git clone https://github.com/kriss0129/myblog.git
+    cd myblog 📁
     ```
 
 2.  **Install dependencies:**
