@@ -7,7 +7,7 @@ This is a simple React portfolio website built using React, styled-components, a
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/kriss0129/myblog.git
+    git clone https://github.com/felipemartinez0605/myblog.git
     cd myblog 📁
     ```
 
